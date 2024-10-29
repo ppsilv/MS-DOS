@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="![msdos-logo](https://github.com/user-attachments/assets/265d6d27-4a03-4d63-ac72-c5bc60a78044)">   
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="https://github.com/user-attachments/assets/265d6d27-4a03-4d63-ac72-c5bc60a78044">   
 
 # MS-DOS v1.25 and v2.0 Source Code
 This repo contains the original source-code and compiled binaries for MS-DOS v1.25 and MS-DOS v2.0.
